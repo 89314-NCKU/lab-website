@@ -1,4 +1,4 @@
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); position: relative; left: 50%; right: 50%; background-color: #fff;">
+<div style="width: 100%; background-color: #fff; margin: 0; padding: 0;">
     <a href="/lab-website/">
         <img src="/lab-website/images/IMG_0372.jpeg" 
              alt="Lab Banner" 
@@ -7,35 +7,35 @@
 </div>
 
 <header class="header">
-    <nav class="nav">
+    <nav class="nav" style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0;">
         <div class="logo">
-            <a href="/lab-website/" style="font-size: 24px; font-weight: 700;">王昭雯實驗室 | NCKU</a>
+            <a href="/lab-website/" style="font-size: 24px; font-weight: 700; text-decoration: none; color: black;">
+                王昭雯實驗室 | NCKU
+            </a>
         </div>
         
-        <ul id="menu" style="display: flex; list-style: none; margin: 0; padding: 0;">
-            <li style="margin-left: 20px;"><a href="/lab-website/research/"><span>研究方向</span></a></li>
-            <li style="margin-left: 20px;"><a href="/lab-website/members/"><span>實驗室成員</span></a></li>
-            <li style="margin-left: 20px;"><a href="/lab-website/publications/"><span>學術論文</span></a></li>
-            <li style="margin-left: 20px;"><a href="/lab-website/gallery/"><span>生活剪影</span></a></li>
-            <li style="margin-left: 20px;"><a href="/lab-website/openings/"><span>誠徵人才</span></a></li>
+        <ul id="menu" style="display: flex; list-style: none; margin: 0; padding: 0; gap: 20px;">
+            <li><a href="/lab-website/research/" style="text-decoration: none; color: #333;">研究方向</a></li>
+            <li><a href="/lab-website/members/" style="text-decoration: none; color: #333;">實驗室成員</a></li>
+            <li><a href="/lab-website/publications/" style="text-decoration: none; color: #333;">學術論文</a></li>
+            <li><a href="/lab-website/gallery/" style="text-decoration: none; color: #333;">生活剪影</a></li>
+            <li><a href="/lab-website/openings/" style="text-decoration: none; color: #333;">誠徵人才</a></li>
         </ul>
     </nav>
 </header>
 
 <style>
-    /* 強制修正目錄在手機和電腦上都是橫排的樣式 */
-    .nav {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: space-between;
-        padding: 10px 0;
-    }
-    #menu {
-        display: flex !important;
-        flex-direction: row !important;
-    }
-    #menu li {
-        display: inline-block;
+    /* 確保手機看也不會跑掉 */
+    @media (max-width: 768px) {
+        .nav {
+            flex-direction: column;
+            text-align: center;
+        }
+        #menu {
+            justify-content: center;
+            margin-top: 10px;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
     }
 </style>
