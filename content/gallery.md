@@ -9,5 +9,5 @@ layout: "single"
 *2023 實驗室尾牙慶祝*
 
 ![研究討論](/images/lab_meeting.jpg)
-*每週一次的研究進度討論*
+*每週一次的研究進度討論* 
  
