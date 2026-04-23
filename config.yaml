@@ -20,3 +20,8 @@ menu:
       url: "openings"
       weight: 50
  
+params:
+  label:
+    text: "王昭雯實驗室 | NCKU"
+    icon: "/images/IMG_0372.jpeg"
+    iconHeight: 120  # 你可以調整這個數字來改變圖片大小
