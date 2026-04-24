@@ -38,7 +38,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-[markup.goldmark.renderer]
-    unsafe = true
 
 
