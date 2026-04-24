@@ -4,11 +4,11 @@ layout: "single"
 ---
 
 ### 代表著作 (Selected Publications)
-* **Wang, C.-W.**, Chiu, P., Monsalve, S., Roure, R., Bai, X., Law, J.-J., Wu, Y.-C., Chen, Y.-R., Cheng, Y.-L., Chen, R.-H., and Wu, Y.-C. (2025) High-glucose diets differentially modulate phosphatidylcholine metabolism and fecundity in Caenorhabditis elegans. *Front. Cell Dev. Biol.* 13:1622695.
+* **Wang, C.-W.**, Chiu, P., Monsalve, S., Roure, R., Bai, X., Law, J.-J., Wu, Y.-C., Chen, Y.-R., Cheng, Y.-L., Chen, R.-H., and Wu, Y.-C. (2025) High-glucose diets differentially modulate phosphatidylcholine metabolism and fecundity in *Caenorhabditis elegans*. *Front. Cell Dev. Biol.* 13:1622695.
 * Cheng, Y.-L., Kuan, J.-E., **Wang, C.-W.**, and Chen, R.-H. (2025) Mga2-mediated transcription supports mitotic nuclear expansion under lipid saturation conditions in stearoyl-CoA desaturase Ole1 mutant. *Mol. Biol. Cell.* 36(11):E25-05-0207.
 * Banerjee, S., Daetwyler, S., Bai, X., Michaud, M., Jouhet, J., Binns, D., Madhugiri, S., Johnson, E., **Wang, C.-W.**, Fiolka, R., Toulmay, A., and Prinz, W. A. (2025) The Vps13-like protein BLTP2 regulates phosphatidylethanolamine levels to maintain plasma membrane fluidity and breast cancer aggressiveness. *Nat. Cell Biol.* 27:1125–1135.
 * **Wang, C.-W.**, Chen, R.-H., and Chen, Y.-K. (2024) The lipid droplet assembly complex consists of seipin and four accessory factors in budding yeast. *J. Biol. Chem.* 300(8):107534.
-* Bai, X., Huang, L.-J., Chen, S.-W., Nebenfuehr, B., Wysolmerski, B., Wu, J.-C., Olson, S. K., Golden, A., and **Wang, C.-W.** (2020) Loss of the seipin gene perturbs eggshell formation in Caenorhabditis elegans. *Development.* 147(20):dev192997.
+* Bai, X., Huang, L.-J., Chen, S.-W., Nebenfuehr, B., Wysolmerski, B., Wu, J.-C., Olson, S. K., Golden, A., and **Wang, C.-W.** (2020) Loss of the seipin gene perturbs eggshell formation in *Caenorhabditis elegans*. *Development.* 147(20):dev192997.
 * Li, Y.-H., Ke, T.-Y., Shih, W.-C., Liou, R-F., and **Wang, C.-W.** (2021) NbSOBIR1 partitions into plasma membrane microdomains and binds ER-localized NbRLP1. *Front Plant Sci.* 12: 721548.
 * Bai, X., Huang, L.-J., Chen, S.-W., Nebenfuehr, B., Wysolmerski, B., Wu, J.-C., Olson, S. K., Golden, A., and **Wang, C.-W.*** (2020) Loss of the seipin gene perturbs eggshell formation in Caenorhabditis elegans. *Development*. 147(20):dev192997.
 * Su, W.-C., Lin, Y.-H., Pagac, M., and **Wang, C.-W.*** (2019) Seipin negatively regulates sphingolipid production at the ER-LD contact site. *J Cell Biol*. 218(11):3663-3680.
