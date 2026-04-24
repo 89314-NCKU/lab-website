@@ -3,15 +3,6 @@ title: "生活剪影"
 layout: "single"
 ---
 
-### 2024 實驗室春遊
-這是我們今年去墾丁看海的照片，大家玩得很開心！
-
-<div align="center">
-  <img src="/lab-website/images/lab-life-01.jpg" width="80%">
-</div>
-
----
-
 ### 20260417 架子組裝
 
 <div align="center">
