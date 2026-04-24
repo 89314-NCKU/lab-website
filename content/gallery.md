@@ -6,7 +6,7 @@ layout: "single"
 ### 20260417 架子組裝
 
 <div align="center">
-  <img src="/lab-website/images/handmade1.JPG" width="80%">
+  <img src="/lab-website/images/handmade1.jpg" width="80%">
 </div>
 
 ---
@@ -14,7 +14,7 @@ layout: "single"
 ### 202602 琦琦學長畢業
 
 <div align="center">
-  <img src="/lab-website/images/lab.jpg" width="80%">
+  <img src="/lab-website/images/lab.JPG" width="80%">
 </div>
 
 ---
