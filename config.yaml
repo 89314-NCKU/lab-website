@@ -13,13 +13,17 @@ menu:
     - name: "學術論文"
       url: "publications"
       weight: 30
+    - name: "榮譽榜"
+      url: "honor"
+      weight: 40
     - name: "生活剪影"
       url: "gallery"
-      weight: 40
+      weight: 50
     - name: "誠徵人才"
       url: "openings"
-      weight: 50
- 
+      weight: 60
+
+      
 markup:
   goldmark:
     renderer:
