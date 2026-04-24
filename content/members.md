@@ -43,12 +43,13 @@ layout: "single"
   <img src="/lab-website/images/?.jpg" width="30%">
 </div>
 
- * **莊為綸(系級：生科系 117 級)** 
+  * **莊為綸(系級：生科系 117 級)** 
     * 專題題目： 利用第二代生長素誘導降解子（AID2）系統迅逮降解釀酒酵母中麥角固醇生成限速酶Erg1及其對細胞影響
     * 聯絡信箱： C54134073@gs.ncku.edu.tw
 
+<br><br>
 
----
+
 
 <div align="left">
   <img src="/lab-website/images/?.jpg" width="30%">
@@ -58,7 +59,7 @@ layout: "single"
     * 專題題目： 打雜
     * 聯絡信箱： C54139510@gs.ncku.edu.tw
 
----
+<br><br>
 
 <div align="left">
   <img src="/lab-website/images/?.jpg" width="30%">
@@ -68,7 +69,7 @@ layout: "single"
     * 專題題目： Vid27
     * 聯絡信箱： C54121224@gs.ncku.edu.tw
 
----
+<br><br>
 
 <div align="left">
   <img src="/lab-website/images/?.jpg" width="30%">
@@ -78,7 +79,7 @@ layout: "single"
     * 專題題目： 無
     * 聯絡信箱： C54131287@gs.ncku.edu.tw
 
----
+<br><br>
 
 <div align="left">
   <img src="/lab-website/images/?.jpg" width="30%">
