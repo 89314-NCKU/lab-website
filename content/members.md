@@ -4,7 +4,9 @@ layout: "single"
 ---
 
 ## 指導教授
-<img src="圖片網址" align="left">
+<div align="left">
+  <img src="/lab-website/images/cww.jpg" width="80%">
+</div>
 ### 王昭雯 教授
 * **研究專長：** 分子細胞生物學、胞器生成及膜運輸。
 * **經歷：** * 國立成功大學生命科學系 教授
