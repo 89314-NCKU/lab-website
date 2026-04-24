@@ -44,31 +44,63 @@ layout: "single"
 </div>
 
   * **莊為綸(系級：生科系 117 級)** 
-    * 專題題目： 
-    * 聯絡信箱： [email]@gs.ncku.edu.tw
+    * 專題題目： 利用第二代生長素誘導降解子（AID2）系統迅逮降解釀酒酵母中麥角固醇生成限速酶Erg1及其對細胞影響
+    * 聯絡信箱： C54134073@gs.ncku.edu.tw
+
+---
+
+<div align="left">
+  <img src="/lab-website/images/?.jpg" width="30%">
+</div>
+
+  * **許汯祐(系級：生科系 116 級)** 
+    * 專題題目： 打雜
+    * 聯絡信箱： C54139510@gs.ncku.edu.tw
+
+---
+
+<div align="left">
+  <img src="/lab-website/images/?.jpg" width="30%">
+</div>
+
+  * **廖千霆(系級：生科系 116 級)** 
+    * 專題題目： Vid27
+    * 聯絡信箱： C54121224@gs.ncku.edu.tw
+
+---
+
+<div align="left">
+  <img src="/lab-website/images/?.jpg" width="30%">
+</div>
+
+  * **劉其名(系級：生科系 117 級)** 
+    * 專題題目： 無
+    * 聯絡信箱： C54131287@gs.ncku.edu.tw
+
+---
+
+<div align="left">
+  <img src="/lab-website/images/?.jpg" width="30%">
+</div>
+
+  * **鄧喬予(系級：生科系 117 級)** 
+    * 專題題目： 無
+    * 聯絡信箱： C54134023@gs.ncku.edu.tw
 
 ---
 
 * **研究助理：**
 
-<div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
-</div>
-
-  * **[姓名]** 
+  * **茗姐** 
     * 負責事務： 實驗室採購、行政事務管理、特定實驗技術支援
-    * 聯絡信箱： [email]@gs.ncku.edu.tw
+    * 聯絡信箱： Z11208060@ncku.edu.tw
 
 ---
 
-* **已畢業學生：** (填入姓名) 
-
-<div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
-</div>
+* **已畢業學生：** 
 
   * **[王健琦] (碩士)** 
-    * 論文：Erg1
-    * 聯絡信箱： [email]@gs.ncku.edu.tw
+    * 論文： 利用第二代生長素誘導降解子（AID2）系統迅逮降解釀酒酵母中麥角固醇生成限速酶Erg1及其對細胞影響
+    * 聯絡信箱： L56094099@gs.ncku.edu.tw
 
 ---
