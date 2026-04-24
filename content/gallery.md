@@ -34,3 +34,5 @@ layout: "single"
 </div>
 
 ---
+
+![架子組裝](/lab-website/images/handmade1.jpg)
