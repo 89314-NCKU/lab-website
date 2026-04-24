@@ -52,7 +52,7 @@ layout: "single"
 
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
+  <img src="/lab-website/images/hsu.jpg" width="30%">
 </div>
 
   * **許汯祐(系級：生科系 116 級)** 
