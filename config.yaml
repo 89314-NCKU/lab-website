@@ -24,3 +24,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+```yaml
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+```
