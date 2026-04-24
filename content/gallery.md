@@ -39,7 +39,7 @@ layout: "single"
 ### 20251119 實驗室春遊斯洛伐克學者參訪
 
 <div align="center">
-  <img src="/lab-website/images/visit2.jpg" width="80%">
+  <img src="/lab-website/images/visit1.jpg" width="80%">
 </div>
 
 ---
