@@ -3,11 +3,43 @@ title: "生活剪影"
 layout: "single"
 ---
 
-這裡是我們實驗室的日常生活紀錄。
+### 2024 實驗室春遊
+這是我們今年去墾丁看海的照片，大家玩得很開心！
 
-![實驗室聚餐](/images/dinner.jpg)
-*2023 實驗室尾牙慶祝*
+<div align="center">
+  <img src="/lab-website/images/lab-life-01.jpg" width="80%">
+</div>
 
-![研究討論](/images/lab_meeting.jpg)
-*每週一次的研究進度討論* 
- 
+---
+
+### 20260417 架子組裝
+
+<div align="center">
+  <img src="/lab-website/images/handmade1.jpg" width="80%">
+</div>
+
+---
+
+### 202602 琦琦學長畢業
+
+<div align="center">
+  <img src="/lab-website/images/lab.jpg" width="80%">
+</div>
+
+---
+
+### 20251120 國外學者參加seminar
+
+<div align="center">
+  <img src="/lab-website/images/visit2.jpg" width="80%">
+</div>
+
+---
+
+### 20251119 實驗室春遊斯洛伐克學者參訪
+
+<div align="center">
+  <img src="/lab-website/images/visit2.jpg" width="80%">
+</div>
+
+---
