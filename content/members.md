@@ -43,7 +43,7 @@ layout: "single"
   <img src="/lab-website/images/?.jpg" width="30%">
 </div>
 
-  * **[莊為綸](系級：生科系 117 級)** 
+  * **莊為綸(系級：生科系 117 級)** 
     * 專題題目： 
     * 聯絡信箱： [email]@gs.ncku.edu.tw
 
