@@ -6,7 +6,7 @@ layout: "single"
 ## 指導教授
 
 <div align="left">
-  <img src="/lab-website/images/cww.jpg" width="30%">
+  <img src="/lab-website/images/cww.jpg" width="50%">
 </div>
 
 ### 王昭雯 教授
@@ -40,7 +40,7 @@ layout: "single"
 * **大學部學生：**
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
+  <img src="/lab-website/images/?.jpg" width="50%">
 </div>
 
   * **莊為綸(系級：生科系 117 級)** 
@@ -52,7 +52,7 @@ layout: "single"
 
 
 <div align="left">
-  <img src="/lab-website/images/hsu.jpg" width="30%">
+  <img src="/lab-website/images/hsu.jpg" width="50%">
 </div>
 
   * **許汯祐(系級：生科系 116 級)** 
@@ -62,7 +62,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
+  <img src="/lab-website/images/?.jpg" width="50%">
 </div>
 
   * **廖千霆(系級：生科系 116 級)** 
@@ -72,7 +72,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
+  <img src="/lab-website/images/?.jpg" width="50%">
 </div>
 
   * **劉其名(系級：生科系 117 級)** 
@@ -82,7 +82,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="30%">
+  <img src="/lab-website/images/?.jpg" width="50%">
 </div>
 
   * **鄧喬予(系級：生科系 117 級)** 
