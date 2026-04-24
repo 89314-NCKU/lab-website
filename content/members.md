@@ -40,7 +40,7 @@ layout: "single"
 * **大學部學生：**
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="50%">
+  <img src="/lab-website/images/dog.jpg" width="50%">
 </div>
 
   * **莊為綸(系級：生科系 117 級)** 
@@ -60,7 +60,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="50%">
+  <img src="/lab-website/images/dog.jpg" width="50%">
 </div>
 
   * **廖千霆(系級：生科系 116 級)** 
@@ -69,7 +69,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="50%">
+  <img src="/lab-website/images/dog.jpg" width="50%">
 </div>
 
   * **劉其名(系級：生科系 117 級)** 
@@ -78,7 +78,7 @@ layout: "single"
 <br><br>
 
 <div align="left">
-  <img src="/lab-website/images/?.jpg" width="50%">
+  <img src="/lab-website/images/dog.jpg" width="50%">
 </div>
 
   * **鄧喬予(系級：生科系 117 級)** 
@@ -87,6 +87,11 @@ layout: "single"
 ---
 
 * **研究助理：**
+
+
+<div align="left">
+  <img src="/lab-website/images/dog.jpg" width="50%">
+</div>
 
   * **茗姐** 
     * 負責事務： 實驗室採購、行政事務管理、特定實驗技術支援
